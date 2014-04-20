@@ -3,8 +3,8 @@
 I made this game to practice my python and learn a little of pygame along the way :)
 ###Installation instructions - 
 
-* Install Python 2.7 or older. Feel free to try it out on Python 3.x and do tell me if it works.
-* Install Pygame (latest version should work)
+* Install [Python 2.7](https://www.python.org/) or older. Feel free to try it out on Python 3.x and do tell me if it works.
+* Install [Pygame](http://www.pygame.org/download.shtml) (latest version should work)
 * Download all files (inculding resources and the font)
 * Run ````game.py```` and Enjoy!
 
