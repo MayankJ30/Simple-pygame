@@ -1,4 +1,4 @@
-##Simple arcadegame made using Pygame!
+##Simple arcade game made using Pygame!
 
 I made this game to practice my python and learn a little of pygame along the way :)
 ###Installation instructions - 
